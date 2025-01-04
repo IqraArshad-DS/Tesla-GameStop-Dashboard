@@ -8,8 +8,7 @@ This project analyzes the stock performance and revenue data of Tesla and GameSt
 - Visualize stock prices and revenue trends in an interactive dashboard.
 
 ## Files
-- `tesla_gamestop_analysis.py`: Python script for data extraction and visualization.
-- `screenshots/`: Contains screenshots of code execution and outputs.
+- `Analyzing Historical Stock/Revenue Data and Building a Dashboard.ipynb`: Python script for data extraction and visualization.
 
 ## Requirements
 - Python 3.8 or above
